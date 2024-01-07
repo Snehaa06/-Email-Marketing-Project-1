@@ -1,0 +1,10 @@
+.body{
+    background-color: aquamarine;
+}
+.h2{
+    text-align: center;
+}
+.li{
+    list-style-type: circle;
+    padding-top: 10px;
+}
